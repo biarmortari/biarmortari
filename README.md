@@ -20,5 +20,4 @@ Sinto uma empolgação genuína pelas possibilidades da tecnologia. Como alguém
 Estou à disposição para conversar sobre desenvolvimento de projetos, novas ideias ou qualquer tópico que envolva criatividade aplicada e um toque de paixão por fazer acontecer.
 
 
-<div>
-  <a href="www.linkedin.com/in/beatrizrodriguesmortari" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/beatrizrodriguesmortari" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
